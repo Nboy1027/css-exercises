@@ -2,9 +2,27 @@
 
 .salamandra 
 {
-    background-color: coral;
+    background-color: rgb(224, 139, 164);
     font-family: "Verdana", "DejaVu Sans", sans-serif ;
 }
 
-/* Second Element - ID 007 */
+/* Second Element - ID james */
 
+#james
+{
+    color: blue;
+    font-size: 36px;
+}
+
+/* Third element - ID */
+
+.font-size
+{
+    font-size: 24px;
+}
+
+#joker
+{
+    background-color: lightgreen;
+    font-weight: bold;
+}
